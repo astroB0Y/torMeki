@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,Okko Sports  1080 laliga (Rusia)  ceaa
-acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,SKY SPORT Bundesliga 1080(Alemania)  38d8
-acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,SKY SPORT Bundesliga 2 1080(Alemania)  169d
-acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M.Liga 1080 Multiaudio   1e02
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M.Liga 1080 Multiaudio   d47a
@@ -165,6 +159,8 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MAT4 1080 (Rusia)  a203
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="Otros" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,Okko Sports  1080 laliga (Rusia)  ceaa
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,DIEMA SPORT  (Bulgaria)  8c6a
 acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Tennis  Channel SD  1608
@@ -245,6 +241,10 @@ acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
 acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,RTL+ SPORT 6 (Event Only)  c065
 acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF:-1 group-title="Otros" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,SKY SPORT Bundesliga 1080(Alemania)  38d8
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 group-title="Otros" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,SKY SPORT Bundesliga 2 1080(Alemania)  169d
+acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Digi Sport 1 SD(Rumania)  51ce
 acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Digi Sport 2 SD(Rumania)  b7db
